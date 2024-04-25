@@ -1,0 +1,25 @@
+html,body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+#cesiumContainer{
+  width: 100%;
+  height: 100%;
+}
+
+.cesium-viewer-toolbar{
+  display: none !important;
+}
+.cesium-viewer-animationContainer{
+  display: none !important;
+}
+.cesium-viewer-timelineContainer{
+  display: none !important;
+}
+.cesium-viewer-timelineContainer{
+  display: none !important;
+}
